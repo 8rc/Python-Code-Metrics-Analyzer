@@ -25,3 +25,13 @@ This Python script analyzes Python files in a given directory (or a single file)
   ```bash
   pip install tabulate
   ```
+
+## Installation
+
+ - git clone https://github.com/8rc/Python-Code-Metrics-Analyzer.git
+ - cd Python-Code-Metrics-Analyzer
+
+## Usage + Example
+
+ - Usage: python3 analyzer.py path/to/your/code
+ - Example: python3 analyzer.py my_project/
