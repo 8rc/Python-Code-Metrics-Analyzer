@@ -28,10 +28,14 @@ This Python script analyzes Python files in a given directory (or a single file)
 
 ## Installation
 
+ ```bash
  - git clone https://github.com/8rc/Python-Code-Metrics-Analyzer.git
  - cd Python-Code-Metrics-Analyzer
+ ```bash
 
 ## Usage + Example
 
+ ```bash
  - Usage: python3 analyzer.py path/to/your/code
  - Example: python3 analyzer.py my_project/
+ ```bash
